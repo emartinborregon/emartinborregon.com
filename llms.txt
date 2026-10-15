@@ -1,0 +1,40 @@
+# Eduard Martín-Borregón
+
+> Data journalist and Executive Director of Abrimos.info, based in Mexico City. He follows public money and investigates public procurement in Latin America, now also with artificial intelligence, and he investigates the AI that governments buy. Mozilla Tech+Society Fellow 2024-2026 and winner of the 2020 Sigma Award.
+
+En español: periodista de datos y director ejecutivo de Abrimos.info. Sigue el dinero público e investiga la compra pública en América Latina, ahora también con inteligencia artificial.
+
+En català: periodista de dades i director executiu d'Abrimos.info. Segueix els diners públics i investiga la compra pública a l'Amèrica Llatina, ara també amb intel·ligència artificial.
+
+Name variants: Eduard Martín-Borregón, Edu Martín-Borregón, Eduard Martin-Borregon, Eduard Martín Borregón. Wikidata: Q19998327.
+
+## Key facts
+
+- Executive Director of Abrimos.info since 2023 (current role). Abrimos.info runs Sociedad.info (over 32 million public contracts from 54 countries), Gobernantes.info and Pidala.info.
+- Co-founded Amnesia during his Mozilla Fellowship, an alliance that preserved over 130 million records from Mexico's abolished transparency watchdogs (INAI and state bodies).
+- State Algorithms (Algoritmos de Estado, 2026), with the Pulitzer Center and Agencia Ocote: how Guatemala buys facial recognition and AI video surveillance, based on procurement data.
+- Led the data, journalism and technology team at PODER in Mexico (2014-2021). Co-founded Méxicoleaks (2015) and led TodosLosContratos.mx (Sigma Award 2020).
+- COO of Datasketch, a Colombian company (2022-2023), working from Mexico City.
+- Founded the Latin American Journalists Network for Transparency and Anti-Corruption.
+- With Abrimos.info he works for organizations that need to decide with data: public procurement price databases and indicators, indicator systems with open data, data strategy for civic platforms and AI training. Organizations that have worked with Abrimos.info include Transparencia Mexicana, Open Data Charter, Human Rights Foundation, CEMEFI, INAI, Oxfam, Dexis, the Municipality of Puebla and the Government of Guatemala.
+- Started as a reporter and photojournalist in Catalonia (2009-2012) and co-founded Data'n'Press (2011).
+- Published in The Washington Post, Proceso, El Mundo and El Periódico de Catalunya.
+- Awards: Sigma Award 2020, Gabo Award for Innovation nominee (2016 and 2020), IAPA honorable mention in data journalism (2022), COLPIN honorable mention (2020), FRIDA Award (2016), special mention at the Data360 Challenge (2026).
+- Contact: edu@abrimos.info
+
+## Pages
+
+- [Home (Spanish)](https://emartinborregon.com/): profile, current work, AI, awards, selected work and contact.
+- [Home (English)](https://emartinborregon.com/en/): same content in English.
+- [Inici (Català)](https://emartinborregon.com/ca/): same content in Catalan.
+- [How I use AI](https://emartinborregon.com/en/ai.html): six principles for using AI in journalism and investigations. Spanish: [Cómo uso la IA](https://emartinborregon.com/ia.html). Catalan: [Com faig servir la IA](https://emartinborregon.com/ca/ia.html).
+- [References](https://emartinborregon.com/en/references.html): verified list of about 145 links (bylines, press coverage, talks, awards, profiles). Spanish: [Referencias](https://emartinborregon.com/referencias.html). Catalan: [Referències](https://emartinborregon.com/ca/referencies.html).
+
+## Profiles
+
+- [Abrimos.info](https://abrimos.info)
+- [Mozilla Foundation fellow page](https://www.mozillafoundation.org/en/what-we-do/grantmaking/fellowship/eduard-martin-borregon/)
+- [Pulitzer Center](https://pulitzercenter.org/people/eduard-martin-borregon)
+- [LinkedIn](https://www.linkedin.com/in/emartinborregon/)
+- [GitHub](https://github.com/emartinborregon)
+- [Viquipèdia (Catalan Wikipedia)](https://ca.wikipedia.org/wiki/Eduard_Mart%C3%ADn-Borreg%C3%B3n)

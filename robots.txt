@@ -1,0 +1,28 @@
+# emartinborregon.com
+# Buscadores y asistentes de IA son bienvenidos. Search engines and AI assistants are welcome.
+User-agent: *
+Allow: /
+Disallow: /_propuesta/
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://emartinborregon.com/sitemap.xml

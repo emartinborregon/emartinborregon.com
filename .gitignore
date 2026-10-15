@@ -1,0 +1,9 @@
+# Material de trabajo, no se publica
+_propuesta/
+favicon.svg
+.DS_Store
+*.bak
+
+# Imágenes que la web ya no usa (se conservan en la bóveda)
+images/emb-panel.jpg
+images/fotos/archivo.jpg
