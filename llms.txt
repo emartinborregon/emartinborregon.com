@@ -1,6 +1,6 @@
 # Eduard Martín-Borregón
 
-> Data journalist and Executive Director of Abrimos.info, based in Mexico City. He follows public money and investigates public procurement in Latin America, now also with artificial intelligence, and he investigates the AI that governments buy. Mozilla Tech+Society Fellow 2024-2026 and winner of the 2020 Sigma Award.
+> Data journalist and Executive Director of Abrimos.info, based in Mexico City. He follows public money and investigates public procurement in Latin America, now also with artificial intelligence, and he investigates the AI that governments buy. Winner of the 2020 Sigma Award and Mozilla Tech+Society Fellow from September 2024 to March 2026.
 
 En español: periodista de datos y director ejecutivo de Abrimos.info. Sigue el dinero público e investiga la compra pública en América Latina, ahora también con inteligencia artificial.
 
@@ -11,15 +11,20 @@ Name variants: Eduard Martín-Borregón, Edu Martín-Borregón, Eduard Martin-Bo
 ## Key facts
 
 - Executive Director of Abrimos.info since 2023 (current role). Abrimos.info runs Sociedad.info (over 32 million public contracts from 54 countries), Gobernantes.info and Pidala.info.
-- Co-founded Amnesia during his Mozilla Fellowship, an alliance that preserved over 130 million records from Mexico's abolished transparency watchdogs (INAI and state bodies).
+- Co-founded Amnesia during his Mozilla Tech+Society Fellowship (September 2024 to March 2026), an alliance that preserved over 130 million records from Mexico's abolished transparency watchdogs (INAI and state bodies).
 - State Algorithms (Algoritmos de Estado, 2026), with the Pulitzer Center and Agencia Ocote: how Guatemala buys facial recognition and AI video surveillance, based on procurement data.
 - Led the data, journalism and technology team at PODER in Mexico (2014-2021). Co-founded Méxicoleaks (2015) and led TodosLosContratos.mx (Sigma Award 2020).
 - COO of Datasketch, a Colombian company (2022-2023), working from Mexico City.
 - Founded the Latin American Journalists Network for Transparency and Anti-Corruption.
-- With Abrimos.info he works for organizations that need to decide with data: public procurement price databases and indicators, indicator systems with open data, data strategy for civic platforms and AI training. Organizations that have worked with Abrimos.info include Transparencia Mexicana, Open Data Charter, Human Rights Foundation, CEMEFI, INAI, Oxfam, Dexis, the Municipality of Puebla and the Government of Guatemala.
+- With Abrimos.info he works for organizations that need to decide with data: public procurement price databases and indicators, indicator systems with open data, data strategy for civic platforms and AI training. Organizations that have worked with Abrimos.info include Open Data Charter, Human Rights Foundation, CEMEFI, INAI, Oxfam, Dexis, PODER, Nosotrxs, NovaGob, the Municipality of Puebla and the Government of Guatemala.
+- Funders and partners of his work and of Abrimos.info: Mozilla Foundation, Pulitzer Center, Derechos Digitales, NED, Google News Initiative, Civic House's Fondo Cívico, International Press Institute and Access Now.
+- Member of the Citizen Council of the Mexican Radio Institute (IMER) from May 2019 to December 2024, and its chair from November 2023 to December 2024.
+- Education: master's in Investigative Journalism, Data and Visualization from Universidad Rey Juan Carlos and El Mundo (2012-2013), with a Google Excellence Scholarship. Master's in Corporate and Institutional Communication Management from Universitat Autònoma de Barcelona (2009-2010). Journalism at Blanquerna, Universitat Ramon Llull (2005-2007). First cycle of Economics at Universitat Autònoma de Barcelona (2002-2007).
+- Talks and workshops on AI to watch public money, the AI governments buy, preserving public archives, public procurement as a journalistic source, and AI and data protection. In Spanish, English and Catalan.
 - Started as a reporter and photojournalist in Catalonia (2009-2012) and co-founded Data'n'Press (2011).
 - Published in The Washington Post, Proceso, El Mundo and El Periódico de Catalunya.
 - Awards: Sigma Award 2020, Gabo Award for Innovation nominee (2016 and 2020), IAPA honorable mention in data journalism (2022), COLPIN honorable mention (2020), FRIDA Award (2016), special mention at the Data360 Challenge (2026).
+- Updated: October 2026.
 - Contact: edu@abrimos.info
 
 ## Pages
